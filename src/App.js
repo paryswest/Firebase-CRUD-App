@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import './App.css';
-import { db } from './firebase-config.js';
+import { db } from './firebase-config';
 import { collection, getDocs } from 'firebase/firestore';
 
 function App() {
@@ -16,6 +16,9 @@ function App() {
   }, []);
   return (
     <div className="App">
+      <input placeholder="Name" />
+      <input type="number" placeholder="Age" />
+      <button>Create user</button>
       {users.map((user) => {
         return (
           <div>
