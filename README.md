@@ -32,13 +32,13 @@ Small CRUD application using React as a framework and a Baas (Firebase) for this
 
 **Tech used:** HTML, JavaScript, React, Firebase
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+I definitely didn't worry too much about styling on this project as my main focus was to just make sure that I have the correct implementation insofar as setting up React correctly and using Firebase to be able to successfully add and delete data—so even if the browser is reloaded, the data is gone (unless re-entered from the side of the database). 
 
 ## Optimizations
-*(optional)*
-
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+- Give some more styling (wasn't my aim when I initially made this app).
+- More than likely organize in to separate components.
+- See if code can be optimized in some way.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+I definitely learned alot about Use state and Use effect in this application. I also struggled ALOT with making this months ago, so I more than likely will review this project and see if I can update some code to get this written better. 
