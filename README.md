@@ -2,19 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# My Awesome Project
 Small CRUD application using React as a framework and a Baas (Firebase) for this list. Tested out my React skills and challenged myself to see if I could implement firebase to store data on to Google's cloud servers.   
 
 **Link to project:** Coming soon
-
-<div align="center">
-<table><tr><td valign="top" width="50%">
-
-
-<div> 
-<div align="center">  
-<img src="https://github.com/paryswest/Firebase-CRUD-App/blob/dba7809aab0e1ad03fe19ac2d59f8610e261f84e/CRUDFrontend.gif" alt="React" height="auto" width="60%" /> 
-</div>  
 
 <div align="center">
 <table>
