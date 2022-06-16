@@ -7,39 +7,25 @@ Small CRUD application using React as a framework and a Baas (Firebase) for this
 
 **Link to project:** Coming soon
 
-https://github.com/paryswest/Firebase-CRUD-App/blob/5283c28174fe04c6317eeffdfbde6582cb09a051/CRUDFirebase.gif
-
 <div align="center">
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">House of Noodles</h2>
 <div align="center" >  
-<a href='https://houseofnoodles.netlify.app/'>
-<img src="https://github.com/paryswest/paryswest/blob/7e7901a09dc12846547306bced96c0429fdb3832/HouseOfNoodlesCropped.gif" alt="noodles" height="700px" width="100%" />
-</a>
+<img src="https://github.com/paryswest/Firebase-CRUD-App/blob/dba7809aab0e1ad03fe19ac2d59f8610e261f84e/CRUDFrontend.gif" alt="CrudFrontend" height="500px" width="100%" />
 <br>
 <br>
-<p>
- <!-- <a href="https://github.com/ssaryonjr/Naruto-Character-Selector/tree/main/Naruto.JS" target="_blank">
-<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-</a>  
-<a href="https://narutobattlescreen-js.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/> -->
-</a>
-</p>
-<p><strong>HTML5, CSS3</strong> - Created a static website of a Japanese Noodle house who specializes in sushi making. Grab your chopsticks because by the time you finish with this website, you'll be hungry for sure!</p>
-
-<div align="center" >  
-<img src="https://github.com/paryswest/Firebase-CRUD-App/blob/5283c28174fe04c6317eeffdfbde6582cb09a051/CRUDFrontend.gif" alt="CRUDfrontend" height="500px" width="100%" />
 </div>
-<br>
-<br>
-<div align="center" >  
-<img src="https://github.com/paryswest/paryswest/blob/7e7901a09dc12846547306bced96c0429fdb3832/HouseOfNoodlesCropped.gif" alt="noodles" height="700px" width="100%" />
-</div>
+</td>
 
-![alt tag](http://placecorgi.com/1200/650)
+<td width="50%">
+<div align="center" >  
+<img src="https://github.com/paryswest/Firebase-CRUD-App/blob/5283c28174fe04c6317eeffdfbde6582cb09a051/CRUDFirebase.gif" alt="" height="500px" width="100%" />
+<br>
+<br>
+</div>
+</div>
+</td>
 
 ## How It's Made:
 
