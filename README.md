@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# Firebase Crud App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# My Awesome Project
+Small CRUD application using React as a framework and a Baas (Firebase) for this list. Tested out my React skills and challenged myself to see if I could implement firebase to store data on to Google's cloud servers.   
 
-In the project directory, you can run:
+**Link to project:** Coming soon
 
-### `npm start`
+https://github.com/paryswest/Firebase-CRUD-App/blob/5283c28174fe04c6317eeffdfbde6582cb09a051/CRUDFirebase.gif
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center" color="white">House of Noodles</h2>
+<div align="center" >  
+<a href='https://houseofnoodles.netlify.app/'>
+<img src="https://github.com/paryswest/paryswest/blob/7e7901a09dc12846547306bced96c0429fdb3832/HouseOfNoodlesCropped.gif" alt="noodles" height="700px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+ <!-- <a href="https://github.com/ssaryonjr/Naruto-Character-Selector/tree/main/Naruto.JS" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://narutobattlescreen-js.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/> -->
+</a>
+</p>
+<p><strong>HTML5, CSS3</strong> - Created a static website of a Japanese Noodle house who specializes in sushi making. Grab your chopsticks because by the time you finish with this website, you'll be hungry for sure!</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<div align="center" >  
+<img src="https://github.com/paryswest/Firebase-CRUD-App/blob/5283c28174fe04c6317eeffdfbde6582cb09a051/CRUDFrontend.gif" alt="CRUDfrontend" height="500px" width="100%" />
+</div>
+<br>
+<br>
+<div align="center" >  
+<img src="https://github.com/paryswest/paryswest/blob/7e7901a09dc12846547306bced96c0429fdb3832/HouseOfNoodlesCropped.gif" alt="noodles" height="700px" width="100%" />
+</div>
 
-### `npm test`
+![alt tag](http://placecorgi.com/1200/650)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How It's Made:
 
-### `npm run build`
+**Tech used:** HTML, JavaScript, React, Firebase
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Optimizations
+*(optional)*
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
 
-### `npm run eject`
+## Lessons Learned:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Examples:
+Take a look at these couple examples that I have in my own portfolio:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**Palettable:** https://github.com/alecortega/palettable
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Twitter Battle:** https://github.com/alecortega/twitter-battle
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Patch Panel:** https://github.com/alecortega/patch-panel
