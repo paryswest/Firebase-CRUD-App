@@ -12,7 +12,7 @@ Small CRUD application using React as a framework and a Baas (Firebase) for this
 
 
 <div> 
-<div>  
+<div align="center">  
 <img src="https://github.com/paryswest/Firebase-CRUD-App/blob/dba7809aab0e1ad03fe19ac2d59f8610e261f84e/CRUDFrontend.gif" alt="React" height="auto" width="60%" /> 
 </div>  
 
