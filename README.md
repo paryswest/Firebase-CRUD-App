@@ -26,8 +26,6 @@ Small CRUD application using React as a framework and a Baas (Firebase) for this
 </div>
 </td>
 </table>  
-<br>
-<br>
 
 ## How It's Made:
 
