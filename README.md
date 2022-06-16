@@ -8,6 +8,15 @@ Small CRUD application using React as a framework and a Baas (Firebase) for this
 **Link to project:** Coming soon
 
 <div align="center">
+<table><tr><td valign="top" width="50%">
+
+
+<div align="center"> 
+<div align="center">  
+<img src="https://github.com/paryswest/Firebase-CRUD-App/blob/dba7809aab0e1ad03fe19ac2d59f8610e261f84e/CRUDFrontend.gif" alt="React" height="75" /> 
+</div>  
+
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -26,6 +35,8 @@ Small CRUD application using React as a framework and a Baas (Firebase) for this
 </div>
 </div>
 </td>
+  
+
 
 ## How It's Made:
 
